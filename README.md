@@ -5,4 +5,6 @@ Since CowAxess does not want to preserve legacy downloads for "For security and 
 
 This is Abandonware. 
 
+extract to `C:\cowaxess_x64` or else it wont run. 
+
 Unofficial preservation mirror. All rights belong to original authors.
